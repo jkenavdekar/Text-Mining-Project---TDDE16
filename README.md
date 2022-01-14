@@ -17,4 +17,4 @@ Evaluation on SQuAD test dataset.
 
 An Output Example: MCQ
 
-<img src="https://github.com/jkenavdekar/Text-Mining-Project---TDDE16/blob/main/QG%20block.png" width="200" height="200">
+<img src="https://github.com/jkenavdekar/Text-Mining-Project---TDDE16/blob/main/output2.PNG" width="300" height="200">

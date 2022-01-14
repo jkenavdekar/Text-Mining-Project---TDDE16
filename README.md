@@ -9,9 +9,9 @@ Evaluation on SQuAD test dataset.
 
 |    Models     |  Exact match  |  BLEU  |  ROUGE  |  F1  |  SPS  |  SBERT  |
 | ----- | ------ | ----- | ----- | -----| ----- | ----- |
-| BERT based Linformer  | 0.0 | 13 | 19 | 15 | 0.0 | 0.0 |
-| small T5 base  | 2.5 | 44 | 40 | 40 | 62 | 74 |
-| large T5 base  | 3.4 | 46 | 44 | 44 | 58 | 77 |
-| mT5  | 0.1 | 25 | 13 | 17 | 45 | 46 |
-| BART  | 0.0 | 29 | 21 | 24 | 39 | 55 |
+| BERT based Linformer  | 0.0 | 13.4 | 18.6 | 15.1 | 0.0 | 0.0 |
+| small T5 base  | 2.5 | 43.8 | 39.6 | 40.4 | 61.5 | 74.2 |
+| large T5 base  | 3.4 | 46.5 | 43.7 | 44.0 | 58.0 | 76.7 |
+| mT5  | 0.1 | 25.3 | 13.4 | 16.9 | 44.7 | 46.3 |
+| BART  | 0.0 | 29.4 | 21.3 | 24.0 | 39.5 | 55.9 |
 

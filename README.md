@@ -7,7 +7,10 @@ Transfer learning applied using T5, BART, BERT based Linformer.
 
 Evaluation on SQuAD test dataset.
 
-|    Models     |  Exact match  |
+|    Models     |  Exact match  |  BLEU  |  ROUGE  |  F1  |  SPS  |  SBERT  |
 | ------------- | ------------- |
-| BERT based Linformer  | 0.001  |
-| small T5 base  | 0..03  |
+| BERT based Linformer  | - | 13 | 19 | 15 | - | - |
+| small T5 base  | 2.5 | 44 | 40 | 40 | 62 | 74 |
+| large T5 base  | 3.4 | 46 | 44 | 44 | 58 | 77 |
+| mT5  | 0.1 | 25 | 13 | 17 | 45 | 46 |
+| BART  | 0.0 | 29 | 21 | 24 | 39 | 55 |

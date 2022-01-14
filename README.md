@@ -15,3 +15,6 @@ Evaluation on SQuAD test dataset.
 | mT5  | 0.1 | 25.3 | 13.4 | 16.9 | 44.7 | 46.3 |
 | BART  | 0.0 | 29.4 | 21.3 | 24.0 | 39.5 | 55.9 |
 
+An Output Example: MCQ
+
+<img src="https://github.com/jkenavdekar/Text-Mining-Project---TDDE16/blob/main/QG%20block.png" width="200" height="200">
